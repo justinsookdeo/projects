@@ -1,4 +1,4 @@
-﻿# Recommendations
+﻿# Implemented Changes
 - Put each class, interface, service, etc into a separate file
 - Class, Interface, etc. should begin with a capital letter
 - Properties should begin with a capital letter
@@ -13,10 +13,10 @@
 # Next Project
 ## Project 2 : Create a Class Library
 
-- Recreate this entire project into a new C# Class Library. Name the new project 'WatertankVolumeCalculator'
+- Recreate this entire project (with the implemented changes) into a new C# Class Library. Name the new project 'WatertankVolumeCalculator'
 - Do not copy and paste code, re-write the entire project from scratch and try to understand how it works
 - Write one class at a time and fully understand its operation before writing the next class
 - In your solution, create a new MSTest Test Project
 - Write tests to test the VolumeService
-- Create a new repo in Github and upload your new project
+- Create a new repo in Github and upload your new Solution (with Libary and Test projects)
 - Pack your Class Library into a Nuget Package. Identity the version, author, description, etc of the Nuget Package.
