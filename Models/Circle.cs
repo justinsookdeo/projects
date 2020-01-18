@@ -13,7 +13,7 @@ namespace Project1
             Radius = radius;
         }
 
-        int IShape.Area()
+        int Area()
         {
             return Convert.ToInt32(pi * Radius * Radius);
         }
